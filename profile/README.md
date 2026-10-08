@@ -9,8 +9,12 @@ N Shipyard builds open infrastructure. The lab has shipped 33 products, 11 of th
 - 🍁 **Canada civic data** — [canada.nshipyard.com](https://canada.nshipyard.com): Toronto open data as explorers, charts, REST/OpenAPI, and MCP servers. Repos: [toronto-licence-naics](https://github.com/Nshipyard/toronto-licence-naics) (37,469 business licences mapped to NAICS 2022), [toronto-geo-concordances](https://github.com/Nshipyard/toronto-geo-concordances) (140/158 neighbourhood crosswalk), [my-street](https://github.com/Nshipyard/my-street) (202,779 building permits by street)
 - 🛰️ **earthquery** — [github.com/Nshipyard/earthquery](https://github.com/Nshipyard/earthquery): ask the planet a question; natural-language vector search over satellite tiles
 - 🌀 **cyclonewatch** — [github.com/Nshipyard/cyclonewatch](https://github.com/Nshipyard/cyclonewatch): live tropical cyclone risk alerts built on official hurricane forecasts
-- 🚢 **The studio** — [nshipyard.com](https://www.nshipyard.com): the full portfolio, 33 products shipped, 11 live
+- 🚢 **The studio** — [nshipyard.com](https://www.nshipyard.com)
 
 ## Why we build
 
 We take on problems worth solving, where we believe the solution will have a real impact on people's lives.
+
+## Team
+
+- **Richardson Dackam** — [github.com/richardsondx](https://github.com/richardsondx)
